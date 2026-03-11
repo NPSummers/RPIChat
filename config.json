@@ -1,0 +1,15 @@
+{
+  "port": 2022,
+  "host_key": "ssh_host_key",
+  "user_db": "users.json",
+  "login_banner": "Welcome to RPIChat! Type 'register' to register or login with your existing account. \n",
+  "username_min_len": 3,
+  "username_max_len": 20,
+  "login_rate_limit": 5,
+  "login_rate_window_sec": 60,
+  "max_sessions_per_user": 2,
+  "timestamps": true,
+  "history_size": 50,
+  "default_room": "general",
+  "typing_indicator_timeout_sec": 10
+}
