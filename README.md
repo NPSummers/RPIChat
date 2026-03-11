@@ -45,7 +45,7 @@ raspchat/
 │   ├── utils.py         # Formatting, colors, validation
 │   ├── server.py        # SSH server, broadcaster
 │   └── cogs/            # Pluggable commands (see rpichat/cogs/README.md)
-
+```
 ## Usage
 
 1. **Register a new account**
