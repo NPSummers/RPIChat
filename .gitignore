@@ -41,6 +41,7 @@ pip-wheel-metadata/
 venv/
 env/
 ENV/
+.v/
 
 # --- Logs / runtime files ---
 *.log
